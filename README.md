@@ -1,14 +1,24 @@
-### Hi there 👋
+# Welcome aboard
 
-**MathieuNeveu/MathieuNeveu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let's get straight to the point, let me show you my junior's developer achievements! 😼
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+I started coding learning C then some python. Currently practicing web development with React & Flask. 
+
+I'm the one and only dev at Komeo ❤️🔒 which is a video production and social media agency ! 
+
+We lead our customers to their communication's peak 💫
+
+## 🤓 Tech Stack
+
+**Client:** React
+
+**Server:** Node, Flask
+
+**I'm familiar with:** CI/CD, Bootstrap, Firebase, Excel
+
+
+## 🧪 Projects
+
+.. it's a little empty here 🧐
