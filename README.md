@@ -18,4 +18,3 @@ Let's get straight to the point, let me show you my junior's developer achieveme
 
 ## 🧪 Projects
 
-flux-de-cast 
