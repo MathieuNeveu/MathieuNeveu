@@ -24,5 +24,5 @@ I would love to find a job where I can practice to master this group of hardskil
 
 ## 🧪 Projects
 
-[Scelle Maison](https://github.com/MathieuNeveu/Scelle-Maison): The idea of this repo is to work around a way to re-use opened cards of your physic TCG collection !<br/>
+[SealFinity](https://github.com/MathieuNeveu/sealfinity): The idea of this repo is to work around a way to re-use opened cards of your physic TCG collection !<br/>
 Play scelled over and over without having to buy new boosters with your friend(s). For now i'm coding a [program](https://github.com/MathieuNeveu/Scelle-Maison/tree/script/python_listmissingcards) that simply output the list of cards that I don't possess for a specific CSV format.
