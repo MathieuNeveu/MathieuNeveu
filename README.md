@@ -9,7 +9,6 @@ Let's get straight to the point, let me show you my junior's developer achieveme
 Open to work ! 
 I'm enthusiastic about Clean Code like Robert C. Martin talks about it.<br/>
 Writing test, using design patterns in a consistent architecture rending to a sustainable source code over time: that's what makes my developer's heart beat.
-I would love to find a job where I can practice to master this group of hardskills. 
 
 ## 🤓 Tech Stack
 
