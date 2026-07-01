@@ -7,7 +7,7 @@ Let's get straight to the point, let me show you my junior's developer achieveme
 :fr: *I'm french but i decided to write this in english to practice a little.*<br/><br/>
 ~ I started coding learning C then some python. I made a web app for [Komeo](https://komeocreation.fr/) with React & Flask.<br/><br/>
 Open to work !<br/>
-From now, I am looking for opportunities to learn industrial automation in a company as apprentice : to obtain a CRSA BTS.
+From now, I am looking for opportunities to learn industrial automation in a company as apprentice : to obtain a CRSA BTS.<br/>
 I'm enthusiastic about Clean Code like Robert C. Martin talks about it.<br/>
 Writing test, using design patterns in a consistent architecture rending to a sustainable source code over time: that's what makes my developer's heart beat.
 
